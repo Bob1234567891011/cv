@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css?family=Corben:700 rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DotGothic16&display=swap" rel="stylesheet">
+  <title>自己紹介</title>
+</head>
+<body>
+<div class="top">
+  <img class="top-star"src="C:\Users\81803\Dropbox\My PC (DESKTOP-UHM98V2)\Desktop\自己紹介.jpg">
+<div class="title-text">
+ 
+  <h1>【はじめまして】</h1>
+
+  <img class="bottom-star"src="C:\Users\81803\Dropbox\My PC (DESKTOP-UHM98V2)\Desktop\自己紹介.jpg">
+   <img class="mountain" src="C:\Users\81803\Dropbox\My PC (DESKTOP-UHM98V2)\Desktop\名称未設定のデザイン (1).gif" alt="angela-profile-img"></img>
+   
+   <h2>【私は、<span class="name">平川　優良</span>と申します。】</h2>
+  </div>
+
+</div>
+<div class="middle">
+<img src="C:\Users\81803\Dropbox\My PC (DESKTOP-UHM98V2)\Desktop\自己紹介.jpg">
+  <h2>こんにちわ</h2>
+<p class="intro">私は、社会人６年目の無能です。今独学で、ホームページを作成中です。楽しいです！！</p>
+</div>
+</div>
+
+<hr>
+<div class="skill">
+  
+  <h2>私の趣味</h2>
+
+ <div class="skill-row">
+  <img class="read" src="http://toastytech.com/evil/billagram2.gif">
+  
+  <h3>読書（ノンフィクション）</h3>
+  <p>私は、暇があると読書をしています。特に偉人たちの人生を教訓として学ぶことが好きです。楽しいです！！</p>
+ 
+</div>
+  <br>
+  <div class="skill-row">
+  <img class="original" src="https://s3-ap-northeast-1.amazonaws.com/progate/production/images/user/wanko.jpg">
+  <br>
+  <h3>プログラミング</h3>
+  <p>私は、暇があるとプログラミングをしています。わからない事ばかりですが、学ぶことに終わりがないことが好きです。楽しいです！！</p>
+ 
+  </div>
+</div>
+<hr>
+<div class="contact-me">
+   <h2>こちらをタッチしてください！</h2>
+   <p class="contact-message">あなたが私に興味をもってくださったのなら。。。</p>
+   <a class="btn" href="mailto:ilove@hotwings.com">押してね！</a>
+</div>
+<div class="bg bg2"></div>
+<div class="bg bg3"></div>
+
+<div class="bottom-container">
+  <a class="footer-link" href="file:///C:/Users/81803/Dropbox/My%20PC%20(DESKTOP-UHM98V2)/Desktop/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/index.html">ウェブサイト</a>
+  <a class="footer-link" href="https://twitter.com/home">twitter</a>
+  <p class="copyright">© 2021　平川優良 .</p>
+
+
+
+  
+</div>
+</body>
+</html>
